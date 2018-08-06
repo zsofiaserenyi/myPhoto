@@ -2,7 +2,7 @@
 
 Add your photo from your library give it a title and a description. 📸
 
-### Summery ###
+### Summary ###
 
 With this application you can add photos from your library to the main list with a title and a description. 
 
